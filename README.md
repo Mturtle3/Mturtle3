@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mark Nielsen
 
-<!--
-**Mturtle3/Mturtle3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub!
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Brigham Young University-Idaho interested in software development, game development, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently studying Computer Science at BYU-Idaho.
+- I'm interested in game development and software engineering.
+- I enjoy building projects and learning new technologies.
+- I'm currently working on improving my programming and problem-solving skills.
+
+## Technologies and Tools
+
+- **Languages:** C#, SQL, Java
+- **Tools:** Unity, Godot, Visual Studio Code, MySQL Workbench, GitHub
+- **Areas of Interest:** Game Development, Software Development, Web Development
+
+## Projects
+
+- **The Lost Wander:** A Zelda-inspired adventure game built in Unity.
+
+## Let's Connect!
+
+Feel free to explore my repositories and check out what I'm working on!
